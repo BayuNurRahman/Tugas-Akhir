@@ -1,0 +1,41 @@
+#isi {
+    width: 830px; /* lebar elemen */
+    margin-bottom:10px;
+    margin-top: 10px;
+    padding:10px;
+}
+
+.gambar {
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+
+
+#header {
+    padding-left: 15px;
+    color: blue;
+}
+
+.footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    background: #333;
+    color: #fff;
+    display: block;
+    margin: -8px;
+}
+
+#isi ul {
+    margin: auto;
+    padding: 0;
+    text-align: justify;
+    line-height: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: none;
+}
