@@ -10,14 +10,24 @@
     margin-top: 0px;
     margin-right: 10px;
     margin-bottom: 10px;
-    margin-left: 0px;
+    margin-left: 15px;
 }
 
+#movies {
+    margin-left: 30px;
+}
 
+.decoration {
+    text-decoration: none;
+}
 
 #header {
     padding-left: 15px;
     color: blue;
+}
+
+body {
+    margin: 0 !important;
 }
 
 .footer {
@@ -28,7 +38,6 @@
     background: #333;
     color: #fff;
     display: block;
-    margin: -8px;
 }
 
 #isi ul {
